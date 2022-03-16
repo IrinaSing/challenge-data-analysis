@@ -14,7 +14,7 @@ opening_hours,city,creation_date,id,street,email,phone_number,name
 12:00-23:00,San Francisco,7/7/17 17:51,164,Urbano Dr,brooklyn_democratic_club@yahoo.com,0496-931729,Brooklyn Democratic Club
 12:00-23:00,San Francisco,10/20/17 7:41,271,Fresnel Way,seventh_masonic_district@mail.com,0496-040228,Seventh Masonic District
 12:00-23:00,San Francisco,9/30/17 16:39,261,Codman Pl,salle_hotel@gmail.com,0498-575430,Salle Hotel
-12:00-23:00,San Francisco,9/28/17 17:21,258,Donahue St,san_souci___beverly_wilshire_hotel@mail.com,0499-679087,San Souci   Beverly Wilshire Hotel
+12:00-23:00,Unknown,9/28/17 17:21,258,Donahue St,san_souci___beverly_wilshire_hotel@mail.com,0499-679087,San Souci   Beverly Wilshire Hotel
 12:00-23:00,San Francisco,9/11/17 3:08,240,Moneta Way,the_pabst@yahoo.com,0497-859751,The Pabst
 12:00-23:00,San Francisco,4/7/18 5:21,340,Quintara St,18th_club@outlook.com,0494-267745,18th Club
 12:00-23:00,Unknown,6/15/17 5:52,132,Manor Dr,karl_ratzschs@hotmail.com,0498-457437,Karl Ratzschs
@@ -43,7 +43,7 @@ opening_hours,city,creation_date,id,street,email,phone_number,name
 12:00-23:00,New York,6/15/18 7:26,356,Avenue C,society_of_colonial_wars_in_state_of_new_jersey@inbox.com,0499-532891,Society Of Colonial Wars In State Of New Jersey
 12:00-23:00,Unknown,6/10/18 19:58,353,Tenny Pl,sheraton_blackstone_chicago@inbox.com,0497-637785,Sheraton Blackstone Chicago
 12:00-23:00,Unknown,4/17/17 4:22,24,Cordelia St,greenhuts_lunch_room_at_18th_and_19th_streets@outlook.com,0497-157694,Greenhuts Lunch Room at 18th and 19th Streets.
-12:00-23:00,San Francisco,7/26/17 8:00,183,Italy Ave,yale_alumni_association@mail.com,0498-591241,Yale Alumni Association
+12:00-23:00,Unknown,7/26/17 8:00,183,Italy Ave,yale_alumni_association@mail.com,0498-591241,Yale Alumni Association
 12:00-23:00,New York,5/19/17 10:57,84,Beacon St,au_chat_noir@hotmail.com,0495-777151,Au Chat Noir
 12:00-23:00,Unknown,6/3/17 6:10,111,Mansfield St,pennsylvania_tours_to_the_golden_gate@hotmail.com,0499-240382,Pennsylvania Tours To The Golden Gate
 12:00-23:00,San Francisco,12/12/17 7:40,298,San Marcos Ave,grand_union_hotel@inbox.com,0494-309588,Grand Union Hotel
@@ -57,7 +57,7 @@ opening_hours,city,creation_date,id,street,email,phone_number,name
 12:00-23:00,New York,2/9/18 10:16,321,Laurel St,hotel_de_la_tremoille@aol.com,0496-792550,Hotel De La Tremoille
 12:00-23:00,San Francisco,12/6/17 17:21,293,Flournoy St,"russell_house,the@aol.com",0496-624597,"Russell House,The"
 12:00-23:00,San Francisco,11/23/18 4:42,393,Southard Pl,friends_of_geo_w_gardner@hotmail.com,0499-673234,Friends Of Geo W. Gardner
-12:00-23:00,San Francisco,4/15/17 13:05,21,Bosworth St,ss_bruce@inbox.com,0495-086825,S.S. Bruce
+12:00-23:00,Unknown,4/15/17 13:05,21,Bosworth St,ss_bruce@inbox.com,0495-086825,S.S. Bruce
 12:00-23:00,Unknown,4/13/17 12:08,16,Harrison Blvd - Golden Gate National Recreation Area,henri_confiseur@inbox.com,0499-393361,Henri Confiseur
 12:00-23:00,Unknown,6/15/17 7:41,133,Nevada St,the_guaranty_club@yahoo.com,0495-732270,The Guaranty Club
 12:00-23:00,San Francisco,6/24/17 3:16,147,Cabrillo St,international_railway_congress@hotmail.com,0494-344541,International Railway Congress
@@ -70,7 +70,7 @@ opening_hours,city,creation_date,id,street,email,phone_number,name
 12:00-23:00,San Francisco,9/6/17 17:10,235,Commer Ct,the_four_seasons_motor_hotel@hotmail.com,0499-081563,The Four Seasons Motor Hotel
 12:00-23:00,San Francisco,4/13/17 10:49,15,Donner Ave,robert_e_peary@inbox.com,0494-709746,Robert E. Peary
 12:00-23:00,New York,9/9/17 11:46,237,Annie St,henry_van_schaick@yahoo.com,0498-028115,Henry Van Schaick
-12:00-23:00,San Francisco,3/1/18 7:28,325,Edinburgh St,hotel_lexington@hotmail.com,0497-521831,Hotel Lexington
+12:00-23:00,Unknown,3/1/18 7:28,325,Edinburgh St,hotel_lexington@hotmail.com,0497-521831,Hotel Lexington
 12:00-23:00,Unknown,9/18/17 17:11,249,Point Lobos,king_umberto_and_queen_margharita@yahoo.com,0495-066886,King Umberto And Queen Margharita
 12:00-23:00,San Francisco,8/14/17 15:26,201,Spofford St,state_department_special_to_the_pand_american_congress_at_the_city_of_mexico_(pullman_car_service)@inbox.com,0494-454774,State Department Special To The Pand American Congress At The City Of Mexico (Pullman Car Service)
 12:00-23:00,New York,11/9/17 2:46,279,Vesey Pl,blanchs@mail.com,0497-871572,Blanchs
