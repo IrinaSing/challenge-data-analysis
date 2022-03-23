@@ -39,4 +39,11 @@ This page presents analisys of data about customer:
 - Time of order
 
 ## Result
+There are 425 restaurants in 2 cities with 1432 menu items.
+Using our visualization, it is possible to create rating of restaurants and menu items which have the highest number of orders.
+With the aid of filter we can adjust the rating according to city.
+
+On the Menu Item page we can analyze if the menu item brings enough revenue and has prospective to be sold further and how revenue responds to price adjustment.
+Also, we can study preferences of customers and see that there are differences depending on the city.
+
 
