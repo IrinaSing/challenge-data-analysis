@@ -46,4 +46,6 @@ With the aid of filter we can adjust the rating according to city.
 On the Menu Item page we can analyze if the menu item brings enough revenue and has prospective to be sold further and how revenue responds to price adjustment.
 Also, we can study preferences of customers and see that there are differences depending on the city.
 
+Among 27.43K customers 30% have allergy on particular food.
+
 
