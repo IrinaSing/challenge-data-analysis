@@ -5,6 +5,7 @@
 - Duration: `8 days`
 - Deadline: `23/03/2022 4:30 PM`
 - Team challenge : 4
+- Team members: [Moshood Owolabi](https://github.com/Msdot001), [Aditya Chugh](https://github.com/adityachugh02), [Mahboubeh Faghih](https://github.com/mahboubehfaghih), [Irina Singh](https://github.com/IrinaSing)
 
 ![sql](https://miro.medium.com/max/1300/0*OIzTefJpPbkiSUCf.jpg)
 
