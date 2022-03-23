@@ -6,6 +6,8 @@
 - Deadline: `23/03/2022 4:30 PM`
 - Team challenge : 4
 - Team members: [Moshood Owolabi](https://github.com/Msdot001), [Aditya Chugh](https://github.com/adityachugh02), [Mahboubeh Faghih](https://github.com/mahboubehfaghih), [Irina Singh](https://github.com/IrinaSing)
+- Level : Junior data analyst
+- Organisation : BeCode AI Bootcamp
 
 ![sql](https://miro.medium.com/max/1300/0*OIzTefJpPbkiSUCf.jpg)
 
@@ -13,7 +15,7 @@
 ## Mission objectives
 
 - Be able to connect to data stored in a cloud database.
-- Be able to use data visualization libraries `matplotlib` or `seaborn`) or data tools like PowerBI to explore the data.
+- Be able to use data visualization tools like PowerBI to explore the data.
 - Be able to clean a dataset for analysis.
 - Be able to use colors in visualizations correctly.
 - Be able to establish conclusions about a dataset.
