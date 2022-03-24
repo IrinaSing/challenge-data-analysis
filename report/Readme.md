@@ -22,6 +22,7 @@ We separated data findings into 3 categories and created a page for each of them
 
 #### Executive summary
 This page provides an overview of orders and revenue based on the city, restaurant and menu items.
+![executive summary](../assets/summary_overview.png)
 
 #### Menu items
 This page displays parameters of each menu item including:
@@ -30,6 +31,7 @@ This page displays parameters of each menu item including:
 - Prediction of future revenue based on adjusted price or trend of orders
 - Average price
 - Comparison between amount of orders in different cities
+![executive summary](../assets/dish_overview.png)
 
 #### Customer
 This page presents analisys of data about customer: 
@@ -37,6 +39,7 @@ This page presents analisys of data about customer:
 - Amount of orders
 - Revenue generated from the customer
 - Time of order
+![executive summary](../assets/customer.png)
 
 ## Result
 There are 425 restaurants in 2 cities with 1432 menu items.
